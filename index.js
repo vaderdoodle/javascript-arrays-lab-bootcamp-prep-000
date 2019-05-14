@@ -8,3 +8,4 @@ destructivelyPrependKitten(name)
 destructivelyRemoveLastKitten()
 
 destructivelyRemoveFirstKitten()
+
