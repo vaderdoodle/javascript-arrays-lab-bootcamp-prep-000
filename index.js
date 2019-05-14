@@ -4,7 +4,7 @@ var kittens = [] //define your array here
 destructivelyAppendKitten(name)
 
 function destructivelyPrependKitten(name) {
-  
+  return kittens.push(name);
 }
 
 function destructivelyRemoveLastKitten() {
