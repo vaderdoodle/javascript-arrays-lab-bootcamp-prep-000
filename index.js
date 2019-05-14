@@ -3,16 +3,30 @@ var kittens = [] //define your array here
 // Add your functions and code here
 destructivelyAppendKitten(name)
 
-destructivelyPrependKitten(name)
+function destructivelyPrependKitten(name) {
+  
+}
 
-destructivelyRemoveLastKitten()
+function destructivelyRemoveLastKitten() {
+  
+}
 
-destructivelyRemoveFirstKitten()
+function destructivelyRemoveFirstKitten() {
+  
+}
 
-appendKitten(name)
+function appendKitten(name) {
+  
+}
 
-prependKitten(name)
+function prependKitten(name) {
+  
+}
 
-removeLastKitten()
+function removeLastKitten() {
+  
+}
 
-removeFirstKitten()
+function removeFirstKitten() {
+  
+}
