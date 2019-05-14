@@ -3,8 +3,13 @@ var kittens = [] //define your array here
 // Add your functions and code here
 destructivelyAppendKitten(name)
 
-function destructivelyPrependKitten(name) {
+function destructivelyAppendKitten(name) {
   kittens.push(name);
+  return kittens;
+}
+
+function destructivelyPrependKitten(name) {
+  kittens.unshift(name);
   return kittens;
 }
 
