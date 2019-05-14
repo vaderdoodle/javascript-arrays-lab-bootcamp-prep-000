@@ -9,3 +9,4 @@ destructivelyRemoveLastKitten()
 
 destructivelyRemoveFirstKitten()
 
+appendKitten(name)
