@@ -14,3 +14,5 @@ appendKitten(name)
 prependKitten(name)
 
 removeLastKitten()
+
+removeFirstKitten()
