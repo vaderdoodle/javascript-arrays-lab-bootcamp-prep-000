@@ -4,3 +4,5 @@ var kittens = [] //define your array here
 destructivelyAppendKitten(name)
 
 destructivelyPrependKitten(name)
+
+destructivelyRemoveLastKitten()
